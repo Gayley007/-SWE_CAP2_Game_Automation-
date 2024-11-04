@@ -192,6 +192,8 @@ educational and entertaining, blending programming skills with strategic thinkin
     - Optimization: Learn to conserve resources and improve code efficiency.
     - Debugging and Problem Solving: Build resilience and troubleshooting skills.
     - Algorithmic Thinking: Develop strategies for pathfinding and task optimization.
+# Video Drive Link
+https://drive.google.com/drive/folders/1bIRGyPZdvyDbQ9Y5maiF-e9wldDN5Wt8?usp=sharing
 
 ## References
 List any resources, articles, or libraries you used or referenced while working on this project.
