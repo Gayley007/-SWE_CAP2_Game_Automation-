@@ -21,7 +21,8 @@ educational and entertaining, blending programming skills with strategic thinkin
 ## Step 1: Farming on 1 tile
   **Demo:**
     Video Demo:
-    ![](first_tile.mp4)
+    first_tile.mp4
+    ![](first.png)
   **Code:**
    ```python
     while True:
@@ -36,7 +37,8 @@ educational and entertaining, blending programming skills with strategic thinkin
 ## Step 2: Farming on 1x3 tile
   **Demo:**
     Video Demo:
-    ![](second_tile.mp4)
+    second_tile.mp4
+    ![](second.png)
   **Code:**
    ```python
     while True:
@@ -88,7 +90,8 @@ educational and entertaining, blending programming skills with strategic thinkin
 ## Step 4: Farming on 4x4 tile
   **Demo:**
     Video Demo:
-    ![](fourth.mp4)
+    fourth.mp4
+    ![](fourth.png)
   **Code:**
    ```python
     while True:
@@ -118,7 +121,8 @@ educational and entertaining, blending programming skills with strategic thinkin
 ## Step 5: Farming on 6x6 tile
   **Demo:**
     Video Demo:
-    ![](fifth.mp4)
+    fifth.mp4
+    ![](fifth.png)
   **Code:**
    ```python
     while True:
@@ -151,7 +155,8 @@ educational and entertaining, blending programming skills with strategic thinkin
 ## Step 6: Farming Pumpkin
   **Demo:**
     Video Demo:
-    ![](sixth.mp4)
+    sixth.mp4
+    ![](sixth.png)
   **Code:**
    ```python
     while True:
@@ -163,7 +168,7 @@ educational and entertaining, blending programming skills with strategic thinkin
         for i in range(get_world_size()):
             for j in range(get_world_size()):
                 move(South)
-                plant(Entities.Carrots)
+                plant(Entities.Pumpkin)
             move(East)
         for i in range(get_world_size()):
             for j in range(get_world_size()):
@@ -192,7 +197,7 @@ educational and entertaining, blending programming skills with strategic thinkin
     - Optimization: Learn to conserve resources and improve code efficiency.
     - Debugging and Problem Solving: Build resilience and troubleshooting skills.
     - Algorithmic Thinking: Develop strategies for pathfinding and task optimization.
-# Video Drive Link
+#Video drive
 https://drive.google.com/drive/folders/1bIRGyPZdvyDbQ9Y5maiF-e9wldDN5Wt8?usp=sharing
 
 ## References
